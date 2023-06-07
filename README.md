@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saba-aghajani-developer" alt="saba-aghajani-developer" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saba-Aghajani-developer](https://github.com/Saba-Aghajani-developer)
+- 👩‍💻 All of my projects are available at [https://github.com/Saba-Aghajani-developer](https://github.com/Saba-Aghajani-developer)
 
 - 💬 Ask me about **React, Javascript, BootStrapt, Css3, Html5**
 
