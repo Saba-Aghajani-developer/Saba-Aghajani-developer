@@ -32,5 +32,5 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saba-Aghajani-developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" /></a>
-</p>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
+
