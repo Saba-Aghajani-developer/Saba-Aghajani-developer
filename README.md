@@ -5,10 +5,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Saba+Aghajni...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saba-aghajani-developer&label=Profile%20views&color=0e75b6&style=flat" alt="saba-aghajani-developer" /> </p
   </a>
 </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saba-aghajani-developer&label=Profile%20views&color=0e75b6&style=flat" alt="saba-aghajani-developer" /> </p
 ## 💫 About Me:
 - 💬 Ask me about: **HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React**
 - 📫 How to reach me **saba1374a@gmail.com**
@@ -32,3 +31,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saba-Aghajani-developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" /></a>
+</p>
