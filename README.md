@@ -52,7 +52,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://instagram.com/saba_aghajani_developer) [![LinkedIn](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGPziC2k4zG4QAAAYuu4EQYMbCPcRvDWjzfATynKzyAz1-uWi1Ll9YYgoLi98G7vWGnSB__dMO8IQ-au_Tu6v4E4psbldb60Q8mUfcreo9-kGj-EGIQmbSUhGZk3ZH8sE-6h-4=&original_referer=https://github.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaba-a-69b608208) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saba_aghajani_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-a-69b608208) 
+
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
