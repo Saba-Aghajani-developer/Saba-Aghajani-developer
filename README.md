@@ -19,14 +19,20 @@
 - ⚡ About me: **I'm Saba Aghajani, a Front-End Developer. Explore my projects and feel free to ask questions! ♥️**
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://t.me/saba1374a" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white" width="60" />
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+  <a href="https://t.me/saba1374a" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" />
+
+  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#0077B5,#005983); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
+
 
 
 ## 💻 Tech Stack:
