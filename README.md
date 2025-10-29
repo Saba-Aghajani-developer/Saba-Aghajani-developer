@@ -20,11 +20,11 @@
 
 ## 🌐 Socials:
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-  <a href="https://t.me/saba1374a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="60" height="60"
-      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s; z-index:10;"
-      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
+<a href="https://t.me/saba1374a" target="_blank" style="display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60"
+    style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+    onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
 
   <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"
@@ -46,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" style="border-radius:50%; padding:10px; background:#0769AD; transition: transform 0.3s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" style="border-radius:50%; padding:10px; background:#CD6799; transition: transform 0.3s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" style="border-radius:50%; padding:10px; background:#F24E1E; transition: transform 0.3s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain.svg" width="60" height="60" style="border-radius:50%; padding:10px; background:#1d365d; transition: transform 0.3s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ## 📊 GitHub Stats:
