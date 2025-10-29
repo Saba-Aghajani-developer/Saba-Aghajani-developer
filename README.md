@@ -16,24 +16,26 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saba1374a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-a-69b608208)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" height="30">](https://t.me/saba1374a)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/saba-a-69b608208)
+
 
 
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-%231d365d?style=for-the-badge&logo=less&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/materialui.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jquery.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sass.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/less.svg" width="40" height="40">
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
