@@ -37,7 +37,29 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="60" height="60" style="margin:10px;border-radius:50%;padding:10px;background:#F7DF1E;transition: transform 0.3s;position:relative;z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- react  -->
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+  <a href="https://t.me/saba1374a" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+
+  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#0077B5,#005983); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+
+  <a href="https://instagram.com/saba_aghajani_developer" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#E1306C,#F56040); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+</p>
+
+
+  
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="60" height="60" style="margin:10px;border-radius:50%;padding:10px;background:#61DAFB;transition: transform 0.3s;position:relative;z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" width="60" height="60" style="margin:10px;border-radius:50%;padding:10px;background:#000000;transition: transform 0.3s;position:relative;z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="60" height="60" style="margin:10px;border-radius:50%;padding:10px;background:#007ACC;transition: transform 0.3s;position:relative;z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
