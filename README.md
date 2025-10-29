@@ -21,12 +21,13 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://t.me/saba1374a" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" style="margin:8px;border-radius:50%;padding:8px;background:#0077B5;transition: transform 0.3s;position:relative;z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" />
   </a>
 </p>
+
 
 ## 💻 Tech Stack:
 <p align="center">
