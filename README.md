@@ -16,26 +16,33 @@
 
 
 ## 🌐 Socials:
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" height="30">](https://t.me/saba1374a)
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/saba-a-69b608208)
-
-
-
+<p align="center">
+  <a href="https://t.me/saba1374a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" style="margin:5px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="margin:5px"/>
+  </a>
+  <a href="https://instagram.com/saba_aghajani_developer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="margin:5px"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/materialui.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jquery.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sass.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/less.svg" width="40" height="40">
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/materialui.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jquery.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sass.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/less.svg" width="50" height="50" style="margin:8px"/>
+</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
