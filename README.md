@@ -18,31 +18,32 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://t.me/saba1374a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" style="margin:5px"/>
+    <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="margin:5px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/saba_aghajani_developer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="margin:5px"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/materialui.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jquery.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sass.svg" width="50" height="50" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/less.svg" width="50" height="50" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/Material%20UI-%230081CB?style=for-the-badge&logo=mui&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white" style="margin:4px"/>
+  <img src="https://img.shields.io/badge/LESS-%231d365d?style=for-the-badge&logo=less&logoColor=white" style="margin:4px"/>
 </p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
