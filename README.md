@@ -20,7 +20,7 @@
 
 ## 🌐 Socials:
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-/<a href="https://t.me/saba1374a" target="_blank" >
+/<a href="https://t.me/saba1374a" target="_blank" style="display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60"
     style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
@@ -28,7 +28,7 @@
 
 
 
-  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank">
+  <a href="https://www.linkedin.com/in/saba-a-69b608208" target="_blank" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"
       style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#0077B5,#005983); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
       onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
