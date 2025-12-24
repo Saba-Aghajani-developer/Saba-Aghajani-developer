@@ -54,22 +54,27 @@ Front-End Developer with a strong focus on building modern, scalable, and user-f
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Saba-Aghajani-developer&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saba-Aghajani-developer&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Aghajani-developer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saba-Aghajani-developer&theme=tokyonight&no-frame=true&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Saba-Aghajani-developer&theme=tokyonight&no-frame=true&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
