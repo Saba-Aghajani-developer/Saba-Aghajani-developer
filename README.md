@@ -50,18 +50,52 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&theme=tokyonight&show_icons=true" />
-</p>
+---
+
+## ✨ Highlights & Focus
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saba-Aghajani-developer&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=821FF7&height=2&section=header"/>
 </p>
 
+### 🚀 What I Do Best
+- ⚛️ Build **modern React & Next.js applications**
+- 🎯 Focus on **clean UI, reusable components, and performance**
+- 🧩 Write **scalable, maintainable code**
+- 🎨 Turn **Figma designs into pixel-perfect UIs**
+- 🧠 Always learning and improving
+
+---
+
+### 📌 Featured Skills Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Aghajani-developer&layout=compact&theme=tokyonight" />
+
+🟣 **Front-End Development**  
+React · Next.js · TypeScript · JavaScript  
+
+🟣 **UI & Styling**  
+Tailwind CSS · SASS · Bootstrap · CSS Grid · Flexbox  
+
+🟣 **Tools & Workflow**  
+Git · GitHub · VS Code · Figma  
+
+🟣 **Also Familiar With**  
+Python · REST APIs
+
 </p>
+
+---
+
+### 🌱 Currently Growing In
+- Advanced **React patterns**
+- **Next.js App Router**
+- Front-End performance optimization
+- Writing cleaner, more scalable code
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=821FF7&height=2&section=footer"/>
+</p>
+
 
 ---
 
