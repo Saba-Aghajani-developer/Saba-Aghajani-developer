@@ -1,45 +1,47 @@
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
-</a>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=140&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I'm+Saba+Aghajani;Front-end+Developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Saba+Aghajani;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saba-Aghajani-developer&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Saba-Aghajani-developer&label=Profile%20Views&color=821FF7&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
-- 💬 Ask me about: **React, TypeScript, Next.js, JavaScript, Python, Tailwind, Bootstrap**
-- 📫 How to reach me: **saba1374a@gmail.com**
-- 👩‍💻 All of my projects are available on [GitHub](https://github.com/Saba-Aghajani-developer)
-- ⚡ Front-End Developer focused on modern web technologies
+## 👩‍💻 About Me
+Front-End Developer with a strong focus on building modern, scalable, and user-friendly web applications.
+
+- 💬 Tech: **React, Next.js, TypeScript, JavaScript, Python**
+- 🎨 Styling: **Tailwind CSS, Bootstrap, SASS**
+- 🧠 UI/UX: **HTML5, CSS3, Flexbox, Grid, Figma**
+- 📫 Email: **saba1374a@gmail.com**
+- 🔗 GitHub: [github.com/Saba-Aghajani-developer](https://github.com/Saba-Aghajani-developer)
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/saba1374a">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="45"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saba-a-69b608208">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
@@ -50,26 +52,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saba-Aghajani-developer&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saba-Aghajani-developer&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Aghajani-developer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Aghajani-developer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-## 📊 GitHub Stats
+
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saba-Aghajani-developer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saba-Aghajani-developer&theme=tokyonight&no-frame=true&row=1" />
 </p>
+
 ---
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saba-Aghajani-developer&theme=radical&no-frame=true&row=1" />
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
