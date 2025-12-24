@@ -99,10 +99,30 @@ Python · REST APIs
 
 ---
 
-## 🏆 GitHub Trophies
+---
+
+## 🏅 Achievements & Highlights
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saba-Aghajani-developer&theme=radical&margin-w=8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=5" />
 </p>
+
+### 🌟 Key Highlights
+- ⚡ Built **scalable and responsive web apps** with React & Next.js  
+- 🎨 Transformed **Figma designs into pixel-perfect UI**  
+- 📦 Experienced in **component-driven development** and reusable code  
+- 🧪 Focused on **clean, maintainable, and performant code**  
+- 🚀 Continuously learning **modern Front-End patterns**  
+
+### 🛠 Tools & Skills Snapshot
+<p align="center">
+💻 React · Next.js · TypeScript · JavaScript · Python · Tailwind CSS · Bootstrap · SASS · Git · Figma
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=5" />
+</p>
+
 
 ---
 
