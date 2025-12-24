@@ -25,34 +25,40 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/saba1374a">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="50" style="border-radius:50%; padding:8px; background:#1DA1F2; transition: transform 0.3s;" />
+  <a href="https://t.me/saba1374a" style="display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#1DA1F2,#0d8ddb); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saba-a-69b608208">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" style="border-radius:50%; padding:8px; transition: transform 0.3s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#0077B5,#005983); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Saba-Aghajani-developer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="border-radius:50%; padding:8px; transition: transform 0.3s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"
+      style="border-radius:50%; padding:12px; background:linear-gradient(135deg,#333,#555); box-shadow:0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><p>React</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/><p>Next.js</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><p>TypeScript</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><p>JavaScript</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><p>Python</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><p>HTML5</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><p>CSS3</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><p>Tailwind</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45"/><p>Bootstrap</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><p>SASS</p></div>
-  <div style="border-radius:10px; background:#2c2c2c; padding:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><p>Figma</p></div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 </p>
 
 ---
@@ -71,10 +77,7 @@
 
 ### 📌 Skills Snapshot
 <p align="center">
-🟣 React · Next.js · TypeScript · JavaScript  
-🟣 Tailwind CSS · SASS · Bootstrap · CSS Grid · Flexbox  
-🟣 Git · GitHub · VS Code · Figma  
-🟣 Python · REST APIs
+🟣 React · Next.js · TypeScript · JavaScript · Tailwind CSS · SASS · Bootstrap · Git · Python · Figma
 </p>
 
 ### 🌱 Currently Growing In
